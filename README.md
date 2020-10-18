@@ -1,5 +1,5 @@
 # Quiz Time
-A simple CLI based quiz application written in golang. 
+A simple CLI based quiz application written in golang. The question bank and answers are provided in a csv file.
 
 ## The What
 This is a code along project created refering to awesome content created by Jon Calhoun on [Youtube](https://www.youtube.com/watch?v=FjxK1KJ7iq4) as part of his Gophercises series.
